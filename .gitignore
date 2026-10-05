@@ -1,0 +1,29 @@
+# =======================
+# Vivado Generated Files
+# =======================
+*.jou
+*.log
+*.str
+*.bit
+*.ltx
+*.xpr
+*.xsa
+
+**/.Xil/
+
+# Disposable Vivado project directory (recreated via scripts)
+vivado/
+
+# =======================
+# OS
+# =======================
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# =======================
+# Editor
+# =======================
+*.swp
+*.swo
+*~
